@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+pillow
+torch>=2.5.1
+huggingface_hub
+transformers
+sentencepiece
+accelerate
+opencv-python-headless
